@@ -1,6 +1,7 @@
-### I guess I should put something here lol
+### 🎮 Player 1: Start 🎮
 
-I'm Fotis, currently an <b>undergraduate student in the Aristotle University's Computer Science Department</b>, avid <i>videogames</i> and <i>anime</i> fan. I currently work with a few other people in a small full stack developer team and have experience with a plethora of programming languages, but I mostly code in <b>TypeScript/JavaScript in my spare time using frameworks such as Angular, Ionic React etc</b>.
+I'm Fotis, currently an <b>undergraduate student in the Aristotle University's Computer Science Department</b>, avid <i>videogames</i> and <i>anime</i> fan. I currently <b>work as a web developer in Deloitte Digital, helping shape the digital path of companies</b>. I'm a lover of all things web related, especially when it comes to frontend.
 
-So uh yea thats basically it.
+I also love TailwindCSS.
 
+[Check out my portfolio site](https://fmalakis.software)
